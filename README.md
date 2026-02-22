@@ -1,2 +1,2 @@
 # Visual-Dashboard
-This is our minor project.
+This is a visual dashboard app.
