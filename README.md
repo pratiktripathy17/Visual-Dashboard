@@ -1,5 +1,3 @@
-# Visual-Dashboard
-This is a visual dashboard app.
 <!-- WORKING NEON ANIMATED README (BLUE–VIOLET THEME) -->
 
 <div align="center">
@@ -124,7 +122,8 @@ Future Scope:
 
 ---
 
-
+<!-- 🔥 Working Animated Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/blue.png" width="100%" />
 
 ## 🌈📈 **Expected Outcome**
 A futuristic neon dashboard system that transforms raw data into **automated, interactive insights**.
