@@ -1,2 +1,3 @@
 # Visual-Dashboard
-This is a visual dashboard app.
+This is a interactive visual dashboard app.
+
